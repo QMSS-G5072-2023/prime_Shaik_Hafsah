@@ -24,12 +24,9 @@ print(result)  # Output: False
 
 ## Installation
 
-Currently, this package needs to be manually downloaded and placed in the appropriate directory to be imported into your Python scripts or notebooks.
-
-1. Download the `prime_hs3373` directory from the GitHub repository.
-2. Place the `prime_hs3373` directory in the same directory as your Python script or Jupyter notebook.
-3. Import and use the `is_prime` function as shown in the Usage section above.
-
+```bash
+$ pip install prime_hs3373
+```
 ## Contributing
 
 This is a simple package created for a class assignment, and is not actively maintained. However, if you find any bugs or have suggestions, feel free to open an issue or submit a pull request on GitHub.
